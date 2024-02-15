@@ -22,7 +22,7 @@ def start_game():
                 print("Too high!")
             elif user_input < random_num:
                 print("Too low!")
-        index += 1
+            index=+1
 
 start_game()
         
